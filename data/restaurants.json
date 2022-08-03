@@ -1,0 +1,10 @@
+[
+  {
+    "id": "r1",
+    "name": "test-restaurant",
+    "address": "test st 123",
+    "cuisine": "Chinese",
+    "website": "https://www.chinese.com",
+    "description": "it's awesome"
+  }
+]
